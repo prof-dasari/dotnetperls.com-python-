@@ -1,4 +1,5 @@
 colors1 = ["blue", "red", "orange"]
+colors2 = ["violet", "purple", "blue"]
 print(colors1)
 
 # Part 2: append to empty list.
